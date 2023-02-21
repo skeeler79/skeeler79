@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Sabrina. I am a recent graduate of LaunchCode's fullstack web development program with a background in healthcare, culinary arts and entrepreneurship.
 - 🌱 I’m currently learning React.js
 - 🔭 I’m currently working on building React projects, contributing to open source and adding more articles about coding to my [blog](https://medium.com/@sabrina.s.keeler)
-- 📫 You can [email](sabrina.s.keeler@gmail.com) me or connect on [LinkedIn](https://www.linkedin.com/in/sabrina-keeler/)
+- 📫 You can [email](mailto:sabrina.s.keeler@gmail.com) me or connect on [LinkedIn](https://www.linkedin.com/in/sabrina-keeler/)
 
 
 <!--
